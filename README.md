@@ -4,4 +4,4 @@ This repository documents my progress through The Hard Surface Accelerator by Bl
 
 The goal of this project is to develop a strong foundation in 3D modeling, understand professional modeling workflows, and apply these techniques to create detailed sci-fi and mechanical assets.
 
-![Render](ShadingAndRendering/Render.tif)
+![Render](Render.png)
